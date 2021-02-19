@@ -1,1 +1,2 @@
 this is notepad
+this is second file
